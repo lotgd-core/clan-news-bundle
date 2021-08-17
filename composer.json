@@ -1,6 +1,6 @@
 {
     "name": "lotgd-core/clan-news-bundle",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "lotgd-bundle",
     "description": "Clan News for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
@@ -29,7 +29,7 @@
         "symfony/http-kernel": "^4.4"
     },
     "require-dev": {
-        "idmarinas/lotgd": "^5.5",
+        "idmarinas/lotgd": "^5.2|^6.0",
         "matthiasnoback/symfony-config-test": "^4.2",
         "matthiasnoback/symfony-dependency-injection-test": "^4.2",
         "nyholm/symfony-bundle-test": "^1.7",
