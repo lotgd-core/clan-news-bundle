@@ -1,6 +1,5 @@
 {
     "name": "lotgd-core/clan-news-bundle",
-    "version": "0.1.1",
     "type": "lotgd-bundle",
     "description": "Clan News for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
